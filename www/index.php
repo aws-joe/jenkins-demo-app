@@ -12,7 +12,7 @@
 # Please see LICENSE.txt for applicable license terms and NOTICE.txt for applicable notices. 
 */
 
-$AppName = "Jenkins Demo Web App";
+$AppName = "Jenkins Demo";
 
 ob_start();
 
