@@ -10,6 +10,7 @@
 */
 
 //Test file non-zero exit is failure
+//Indeed
 
 chdir("www/");
 
